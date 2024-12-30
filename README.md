@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Raven.
-- 👀 I’m a digital designer who has worked in marketing, email marketing, graphic design, web design, and web development.
+- 💻 I’m a digital designer who has worked in marketing, email marketing, graphic design, web design, and web development.
 - 🌱 I’m currently learning Figma, and UI/UX design.
-- 📫 You can reach me via email at raven@rlarkindesign.com
-- ⚡ Fun fact: I am a huge animal lover! I'd love to work with you if you focus on the greater good of pets/animals.
+- 📩 You can reach me via email at raven@rlarkindesign.com
+- ✨ Fun fact: I am a huge animal lover! I'd love to work with you if you focus on the greater good of pets/animals.
 
   Thank you for reading and I hope to hear from you soon!
 
